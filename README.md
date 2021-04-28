@@ -1,9 +1,9 @@
-# Calculadora com Spring Boot
+# Calculator with Spring Boot
 ## USJ - ADS - Programação Web
 
 Author Gabriel Henrique de Freitas Batista
 
-## Como usar?
+## How to Use ?
 
 * Use the "+" operator to perform an Addition between two operators.
 
